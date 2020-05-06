@@ -1,0 +1,772 @@
+body{
+    background-color: white;
+}
+
+
+.header{
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    justify-content: center;
+}
+
+.last{
+    background-color: blue;
+    width: 100%;
+    height: 50px;
+    display: inline-block;
+    justify-content: center;
+}
+
+.headline{
+    margin-left: 12%;
+    position: relative;
+    top: -8px;
+} 
+
+p{
+    color: cornsilk;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.uk{
+    float: right;
+    padding: 6px 6px 6px 6px;
+    margin-top: 10px;
+}
+
+.donate{
+    float: right;
+    padding: 6px 6px 6px 6px;
+    margin-top: 10px;
+}
+
+.smit{
+    float: right;
+    padding: 6px 6px 6px 6px;
+    margin-top: 10px;
+}
+
+.ml{
+    margin-right: 10px;
+}
+
+.mlr{
+    margin-right: 45px !important
+}
+
+
+.mrl{
+    margin-left: 80px !important
+}
+
+
+.fb{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.twitter{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.insta{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.utube{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.whatsapp{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.saylanilogo{
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+
+}
+
+.seconddiv{
+    width: 100%;
+    height: 70px;
+}
+
+.button1{
+    display: inline-block;
+    float: right;
+    padding: 6px 6px 6px 6px;
+    margin-top: 20px;
+    border-radius: 30px;
+    padding: 10px;   
+    cursor: pointer;
+    border: none;
+}
+
+.button1:hover{
+    background: blue;
+}
+
+
+
+.bigimg{
+    width: 100%;
+    height: 500px;
+}
+
+.thirddiv{
+    background-color: blue;
+    width: 90%;
+    height: 30px;
+    float: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: auto;
+}
+
+.empty1{
+    width: 100%;
+    height: 20px;
+}
+
+.empty2{
+    width: 100%;
+    height: 20px;
+}
+
+.introduction{
+         margin: 0px auto;  
+         justify-content: center;
+         border-color: 2px solid black;
+}
+
+.intro{
+    color: blue;
+    padding-left: 40%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+.duction{
+    color: green;
+    padding-right: 35%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+.centerlogo{
+    width: 55px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.line1{
+    color: green;
+    padding-left: 30%;
+}
+
+.line2{
+    color: green;
+    padding-right: 30%;
+}
+
+.line3{
+    color: green;
+    padding-right: 30%;
+    /* margin-top: -400px;
+    margin-bottom: 300px; */
+}
+
+.circle{
+    padding-right: 30%;
+    padding-left: 36%;
+}
+
+
+.longpara{
+    color: grey;
+    text-align: justify;
+    padding: 8px 150px 8px 150px;
+    word-spacing: 2px;
+    font-family: Calibri;
+}
+
+.empty3{
+    width: 100%;
+    height: 20px;
+}
+
+.empty4{
+    width: 100%;
+    height: 20px;
+}
+
+.empty5{
+    width: 100%;
+    height: 20px;
+}
+
+.empty6{
+    width: 100%;
+    height: 20px;
+}
+
+.longbluediv{
+    background-color: blue;
+    width: 100%;
+    height: 300px;
+}
+
+.blue1{
+    background-color: blue;
+    color: white;
+    width: 20%;
+    height: 300px;
+    position: absolute;
+    left:7%
+}
+
+.blue2{
+    background-color: blue;
+    color: white;
+    width: 20%;
+    height: 250px;
+    position: absolute;
+    left:30%;
+}
+
+.blue3{
+    background-color: blue;
+    color: white;
+    width: 20%;
+    height: 240px;
+    position: absolute;
+    left:50%;
+}
+
+.blue4{
+    background-color: blue;
+    color: white;
+    width: 20%;
+    height: 220px;
+    position: absolute;
+    left:75%;
+}
+
+
+.c125{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    }
+    
+    .c75{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+    }
+    
+    .c43{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+    }
+    
+    .c180{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 40px;
+    }
+
+
+.what{
+    color: blue;
+    padding-left: 35%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+.doing{
+    color: green;
+    padding-right: 20%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+.come{
+    margin: 0 auto;
+    background-color: whitesmoke;
+    margin-left: 5%;
+    }
+    
+    .practice1{
+    border:8px solid white;
+    align-items: center;
+    text-align: center;
+    width: 350px;
+    height: 150px;
+    float: left;
+    padding: 5px;
+    margin: 10px;
+    background-color: white;
+    box-shadow: 4px 5px 10px grey;
+    }
+    
+    .do1{
+        color:blue;
+        padding: 10px;
+        align-items: center;
+        font-size: 20px;
+    }
+    
+    .imag1{
+        width: 30%;
+        height: 100px;
+    }
+    
+    .imag2{
+        width: 40%;
+        height: 100px;
+    }
+    
+    .imag3{
+        width: 30%;
+        height: 100px;
+    }
+    
+    .imag4{
+        width: 50%;
+        height: 100px;
+    }
+    
+    .imag5{
+        width: 40%;
+        height: 100px;
+    }
+    
+    .imag6{
+        width: 30%;
+        height: 100px;
+    }
+    
+    .practice2{
+        border:5px solid whitesmoke;
+        background-color: whitesmoke;
+        align-items: center;
+        text-align: center;
+        width: 300px;
+        height: 50px;
+        float: left;
+        padding: 5px;
+        padding-left: 50px;
+        margin: 10px;
+        }
+        
+        .do2{
+            color: blue;
+            padding: 10px;
+            align-items: center;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+        
+        .img2{
+            width: 20%;
+            height: 40px;
+            padding-left: 10px;
+            padding-right: 50px;
+        }
+    
+
+.projects{
+    width: 60%;
+    height: 300px;
+    background-color: white;
+    float: left;
+    padding: 20px;
+}
+
+
+.evnt{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+    left: 60%;
+    margin-bottom: 150px;
+    margin-top: 1.5%;
+}
+
+.mission{
+    color: blue;
+    font-size: 30px;
+    justify-content: left;
+    padding: 20px;
+    padding-left: 72px;
+}
+
+.events{
+    color: blue;
+    font-size: 30px;
+    justify-content: left;
+}
+
+.event1{
+    justify-content: start;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    padding: 10px;
+}
+
+
+
+.image{
+    color: blue;
+    padding-left: 30%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+
+.gallery{
+    color: green;
+    padding-right: 20%;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+}
+
+.images{
+    width: 200px;
+    height: 150px;
+    padding: 2px;
+   
+}
+
+.image-container{
+    width: 150%;
+    margin-left: 10% ;
+}
+
+.image-gallery{
+    padding: 5px;
+    margin-right: 20%;
+    margin: 0 auto;
+    padding-left: 40%;
+    padding-right: 10%;
+    margin-left: -20%;
+}
+
+.footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: inline-block;
+}
+
+.footer1{
+    width: 33%;
+    height: 300px;
+    background-color: black;
+    display: inline-block;
+    float: left;
+    padding-top: 100px;
+    padding-left: 100px
+}
+
+
+.footer2{
+    width: 20%;
+    height: 400px;
+    background-color: black;
+    display: inline-block;
+    float: left;
+}
+
+
+.footer3{
+    width: 34%;
+    height: 400px;
+    background-color: black;
+    display: inline-block;
+    float: left;
+}
+
+.main-footer-container{
+    width: 106.4%
+}
+
+
+.useful{
+    color: white;
+    margin: auto;
+    padding-bottom: 60%;
+    padding-top: 20%;
+    text-align: left;
+}
+
+
+.connect{
+    color: white;
+    margin: auto;
+    padding-bottom: 60%;
+    padding-top:12%;
+    text-align: left;
+}
+
+.spoon{
+    width: 55px;
+    height: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.family{
+    width: 60px;
+    height: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.statoscop{
+    width: 55px;
+    height: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.cap{
+    width: 55px;
+    height: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.daily{
+    color: white;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+.monthly1{
+    color: green;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+.family{
+    color: white;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+.adoption{
+    color: white;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+.monthly2{
+    color: green;
+    padding: auto;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+.medical{
+    color: white;
+    padding: auto;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+
+.monthly3{
+    color: green;
+    padding: auto;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+
+.education{
+    color: white;
+    padding: auto;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+.monthly4{
+    color: green;
+    padding: auto;
+
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+
+
+
+.sadqahzero{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+.sadqahone{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+.sadqahtwo{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+.sadqahthree{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+.sadqahfour{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+.sadqahfive{
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    border: 5px solid red;
+    border-style: dotted;
+}
+
+
+.div1{
+    color:blue;
+    justify-content: center;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-top: -10px;
+}
+
+
+.hepatitis{
+    width: 60px;
+    height: 50px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+
+
+.phone{
+    width: 20px;
+    height: 20px;
+}
+
+.last-images{
+    width: 20px;
+    height: 20px;
+    margin-top: -380px;
+    margin-bottom: 280px;
+}
+
+
+.email{
+    color: grey;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1px;
+    margin: 2px;
+}
+
+
+
+
